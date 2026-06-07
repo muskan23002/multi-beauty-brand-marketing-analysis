@@ -18,7 +18,6 @@ The following README provides a detailed account of the project's objectives, bu
 - Identify the most efficient customer segments and languages for each brand
 - Perform monthly and quarterly time series analysis
 - Answer 10 real-world business questions a marketing manager would ask
-- Build a final enriched view for Power BI dashboard (coming soon)
 
 ---
 
