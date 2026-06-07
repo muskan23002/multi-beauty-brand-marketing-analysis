@@ -1,11 +1,5 @@
 -- ============================================================
--- PROJECT  : Multi-Brand Beauty Marketing Campaign Analysis
--- FILE     : 05_time_series_analysis.sql
--- PURPOSE  : Monthly and quarterly trend analysis
--- AUTHOR   : Muskan
--- TOOL     : PostgreSQL
--- ============================================================
--- Date Range: July 2024 to May 2025 (12 months)
+-- Date Range: July 2024 to May 2025 (11 months)
 -- Note: June 2025 excluded (incomplete month - only 24 days)
 -- ============================================================
 
