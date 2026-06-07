@@ -1,13 +1,4 @@
 -- ============================================================
--- PROJECT  : Multi-Brand Beauty Marketing Campaign Analysis
--- FILE     : 02_data_exploration.sql
--- PURPOSE  : Explore the dataset before analysis
--- AUTHOR   : Muskan
--- TOOL     : PostgreSQL
--- ============================================================
-
-
--- ============================================================
 -- 2.1 : PREVIEW DATA
 -- ============================================================
 
