@@ -98,7 +98,7 @@ SELECT 'Tira'    AS brand, * FROM tira_campaigns;
 | language | VARCHAR(50) | Hindi, English, Tamil, Bengali |
 | engagement_score | NUMERIC(5,2) | Campaign engagement metric |
 | customer_segment | VARCHAR(100) | College Students, Premium Shoppers, Working Women, Youth, Tier 2 City |
-| campaign_date | DATE | Date campaign ran |
+| campaign_date | DATE | 11months and 24 days (Jul 2024- May 2025)  |
 
 ---
 
