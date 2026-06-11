@@ -126,7 +126,6 @@ Multi-Brand-Beauty-Campaign-Analysis/
 │   ├── 04_kpi_analysis.sql          → CTR, CVR, ROAS, CPL, CPC by dimension
 │   ├── 05_time_series_analysis.sql  → Monthly and quarterly trends
 │   ├── 06_business_questions.sql    → 10 business questions answered
-│   └── 07_powerbi_view.sql          → Final enriched view for Power BI
 │
 ├── Dataset/
 │   ├── nykaa_campaign_data.csv
